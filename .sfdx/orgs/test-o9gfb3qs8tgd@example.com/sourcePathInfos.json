@@ -2,14 +2,14 @@
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535936830446,
             "changeTime": 1535936830446,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535936830446,
             "changeTime": 1535936830446,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1535937616940,
-            "changeTime": 1535937616940,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "modifiedTime": 1535939045862,
+            "changeTime": 1535939045862,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535936830446,
             "changeTime": 1535936830446,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation",
         {
-            "state": "n",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535936951897,
             "changeTime": 1535936951897,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,144 +75,170 @@
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1535937616792,
             "changeTime": 1535937616792,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1535937616831,
             "changeTime": 1535937616831,
-            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22"
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1535937616856,
             "changeTime": 1535937616856,
-            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c"
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9630,
             "modifiedTime": 1535937616913,
             "changeTime": 1535937616913,
-            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195"
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9582,
             "modifiedTime": 1535937616936,
             "changeTime": 1535937616936,
-            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278"
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1535937616944,
             "changeTime": 1535937616944,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535937616781,
             "changeTime": 1535937616781,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535937616777,
             "changeTime": 1535937616777,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535937616776,
             "changeTime": 1535937616776,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535937616923,
             "changeTime": 1535937616923,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1535937616941,
             "changeTime": 1535937616941,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17878,
+            "modifiedTime": 1535939045889,
+            "changeTime": 1535939045889,
+            "contentHash": "0d273611b5be8d59e2ce233f412cbff11e4620e8"
+        }
+    ],
+    [
+        "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\cguo\\OneDrive - Arlo Technologies, Inc\\Arlo\\Salesforce\\cicd\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535939045880,
+            "changeTime": 1535939045880,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
         }
     ]
 ]
